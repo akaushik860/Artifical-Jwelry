@@ -3,3 +3,4 @@
 #### This site is created using **HTML** , **CSS** , **JavaScript**.
 #### It contains horizontal Navbar with Tabs such as Men's, Women's, Offers.
 Anyone wants to add something new or make database for this site will be most Welcome.
+## Link for the Website is https://sad-allen-55cf8b.netlify.app/
